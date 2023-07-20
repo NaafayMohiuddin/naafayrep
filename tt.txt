@@ -1,1 +1,3 @@
-random data 
+random data
+
+data insertion from ec-2 
